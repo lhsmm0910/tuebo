@@ -2,7 +2,7 @@
 import { ReactNode } from "react";
 import { ConvexProvider, ConvexReactClient } from "convex/react";
 
-const convex = new ConvexReactClient('https://cheerful-goat-45.clerk.accounts.dev');
+const convex = new ConvexReactClient('https://quirky-labrador-932.convex.cloud');
 
 export default function ConvexClientProvider({
   children,
